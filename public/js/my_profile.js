@@ -1,0 +1,1 @@
+(()=>{var o={};o.url=profile_url,o.el=my_profile_form,o.dis_el=$("#".concat(submit_button));formSubmit(o,(function(o){location.reload()}),(function(o){debug_logs(o)}))})();

@@ -1,0 +1,1 @@
+@if($deleted_at) bg-red-500 text-white @endif

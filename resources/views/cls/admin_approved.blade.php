@@ -1,0 +1,1 @@
+@if ($is_admin_approved) {{ 'bg-blue-500' }} @else {{ 'bg-red-500' }} @endif

@@ -1,0 +1,1 @@
+(()=>{var e=e||"",l=l||"",u=u||"";debug_logs("update_form => ".update_form),debug_logs("user_update => ".user_update);var a=$("#".concat(l)),r={};r.url=e,r.el=u,r.dis_el=a,successCall=function(){location.reload()},errCall=function(e){debug_logs(e)},formSubmit(r,successCall,errCall)})();

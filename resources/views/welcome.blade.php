@@ -1,0 +1,14 @@
+@extends(config('setting.body'))
+@section('page-css')
+@endsection
+@section('content')
+    @include('session_msg')
+    @include('components.wel_banner')
+    @include('components.en_typewriter')
+    @include('components.en_land_display')
+    @include('components.en_mo_info_con')
+    @include('components.en_im_event')
+    @include('components.en_im_sponsorship')
+@endsection
+@section('script')
+@endsection
