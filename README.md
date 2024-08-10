@@ -1,3 +1,19 @@
+[![LaravelLogo]][Laravel]
+[![MysqlL]][Mysql]
+[![TailWindL]][TailWind]
+[![Node]][Google]
+[![Composer]][Google]
+<!----------------------------------------------------------------------------->
+[Google]: # 'https://google.com/'
+[TailWind]: # 'https://tailwindcss.com/brand'
+[Mysql]: # 'https://laravel.com/'
+[Laravel]: # 'https://www.mysql.com/'
+<!---------------------------------[ Buttons ]--------------------------------->
+[MysqlL]: https://www.mysql.com/common/logos/logo-mysql-170x115.png
+[LaravelLogo]: https://laravel.com/img/logomark.min.svg
+[TailWindL]: https://tailwindcss.com/_next/static/media/tailwindcss-logotype-white.944c5d0ef628083bb316f9b3d643385c86bcdb3d.svg
+[Node]: https://camo.githubusercontent.com/aed49f9d06f82a2b34f7d52655f81809ed3b5e6564df5df7e4c982349efc6a79/68747470733a2f2f6e6f64656a732e6f72672f7374617469632f6c6f676f732f6e6f64656a734c696768742e737667
+[Composer]: https://getcomposer.org/img/logo-composer-transparent5.png
 
 ## Local Setup (Development)
 1. install xampp (Required PHP version -> 8.2) [Download Link](https://www.apachefriends.org/)
