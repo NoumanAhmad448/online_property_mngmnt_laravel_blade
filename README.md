@@ -1,8 +1,8 @@
-[![LaravelLogo]][Laravel]
+[![LaravelLogo]][Laravel] <br/>
 [![MysqlL]][Mysql]
-[![TailWindL]][TailWind]
+[![TailWindL]][TailWind] <br/>
 [![Node]][Google]
-[![Composer]][Google]
+[![Composer]][Google] <br/>
 <!----------------------------------------------------------------------------->
 [Google]: # 'https://google.com/'
 [TailWind]: # 'https://tailwindcss.com/brand'
@@ -15,6 +15,20 @@
 [Node]: https://camo.githubusercontent.com/aed49f9d06f82a2b34f7d52655f81809ed3b5e6564df5df7e4c982349efc6a79/68747470733a2f2f6e6f64656a732e6f72672f7374617469632f6c6f676f732f6e6f64656a734c696768742e737667
 [Composer]: https://getcomposer.org/img/logo-composer-transparent5.png
 
+<!----------------------------------------------------------------------------->
+
+![Alt text](site_imgs/1.png)
+![Alt text](site_imgs/2.png)
+![Alt text](site_imgs/3.png)
+![Alt text](site_imgs/4.png)
+![Alt text](site_imgs/5.png)
+<!----------------------------------------------------------------------------->
+
+## Features
+``` Admin, SuperAdmin & normal user roles``` <br/>
+``` File Attachment ```<br/>
+``` Laravel Health and many development related operatoion checkout .github folder ```<br/>
+
 ## Local Setup (Development)
 1. install xampp (Required PHP version -> 8.2) [Download Link](https://www.apachefriends.org/)
 2. download node 18.18.0
@@ -24,7 +38,7 @@
 5. Run [this file](/local_development.sh)
 6. Get dump from someone else and upload
 7. ```php artisan serve --port=8080```
-
+<!----------------------------------------------------------------------------->
 ## Development
 1. Turn on xampp
 2. PHP server
@@ -35,7 +49,7 @@ php artisan serve --port=8080
 ```
 npm run watch
 ```
-
+<!----------------------------------------------------------------------------->
 ## Development Guildlines
 1. Add all global setting constants in ```custom_lib .blade.php```
 2. custom javascript functions in ```common_functions.js```
@@ -93,7 +107,7 @@ npx prettier . --write --config configs/.prettierrc.json
 ```
 php artisan strge:ln
 ```
-
+<!----------------------------------------------------------------------------->
 
 ## Troubleshooting
 mysql configuration file finder
@@ -162,7 +176,7 @@ make/create controller
 php artisan make:controller
 ```
 
-
+<!----------------------------------------------------------------------------->
 ### Change s3 bucket
 1. https://laravel-news.com/using-aws-s3-for-laravel-storage
 POV: To find the URL, upload something in bucket and open it in new tab
@@ -170,12 +184,13 @@ POV: To find the URL, upload something in bucket and open it in new tab
 How to fix 'The file failed to upload.' error using any validation for image upload - Laravel 5.7 
 1. Login to WHM > search ``` PHP INI editor``` > Choose php81 > update the setting according to cpanel ``` INI editor```
 
-
+<!----------------------------------------------------------------------------->
 ### SSH access
 Read the public key from ```git bash```
 ```
 cat ~/.ssh/id_rsa.pub
 ```
+<!----------------------------------------------------------------------------->
 ### apache server
 1. apache status
 ```
@@ -202,7 +217,7 @@ php --ini
 ```
 nano /opt/cpanel/ea-php80/root/etc/php.ini
 ```
-
+<!----------------------------------------------------------------------------->
 ## Change PHP version in xampp
 1. download ```thread safe``` php version from ```php.net```
 2. make sure php folder has following files
@@ -217,7 +232,7 @@ nano /opt/cpanel/ea-php80/root/etc/php.ini
 9. Run ```composer update```
 10. restart ```artisan serve```
 
-
+<!----------------------------------------------------------------------------->
 ## Fresh Laravel Project
 ```Back Up on the server```
 1. Fetch SSH connections
@@ -233,3 +248,4 @@ nano /opt/cpanel/ea-php80/root/etc/php.ini
 ```
 deployment.yml
 ```
+<!----------------------------------------------------------------------------->
