@@ -1,7 +1,7 @@
 <?php
 
 return [
-    'harbourislandcommonage.com',
+    'testislandcommonage.com',
     'habour.com',
     'bypass.com',
     'gmail.com',

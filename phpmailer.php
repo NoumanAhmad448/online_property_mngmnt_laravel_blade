@@ -2,8 +2,8 @@
 
 ini_set('display_errors', 1);
 error_reporting(E_ALL);
-$from = 'no-reply@harbourislandcommonage.com';
-$to = 'uroosasehar786@outlook.com';
+$from = 'no-reply@abcd.com';
+$to = 'test@outlook.com';
 $subject = 'PHP mail functionality';
 $message = 'PHP mail check';
 $headers = 'From:'.$from;

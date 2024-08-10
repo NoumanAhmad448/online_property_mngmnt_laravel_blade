@@ -24781,7 +24781,7 @@
   },
   {
     "id": 3597,
-    "name": "Governor's Harbour",
+    "name": "Governor's test",
     "country_id": 17,
     "latitude": "25.19480960",
     "longitude": "-76.24396220"
@@ -24830,7 +24830,7 @@
   },
   {
     "id": 3604,
-    "name": "Marsh Harbour",
+    "name": "Marsh test",
     "country_id": 17,
     "latitude": "26.52416530",
     "longitude": "-77.09098090"
@@ -24893,7 +24893,7 @@
   },
   {
     "id": 3613,
-    "name": "Harbour Island",
+    "name": "test Island",
     "country_id": 17,
     "latitude": "25.50011000",
     "longitude": "-76.63405110"

@@ -1,4 +1,4 @@
-name: Harbourislandcommonage Deployment
+name: Deployment
 
 on:
   push:

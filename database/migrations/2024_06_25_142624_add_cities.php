@@ -8,7 +8,7 @@ return new class extends Migration {
     private $cities;
 
     public function __construct() {
-        $this->cities = ['Lower Bogue', 'Upper Bogue', 'Spanish Wells', 'Bluff', 'Harbour island',
+        $this->cities = ['Lower Bogue', 'Upper Bogue', 'Spanish Wells', 'Bluff', 'test island',
         ];
     }
 

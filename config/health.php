@@ -73,7 +73,7 @@ return [
              */
             'channel' => env('HEALTH_SLACK_CHANNEL', 'web-development'),
 
-            'username' => env('HEALTH_SLACK_USERNAME', 'urooman'),
+            'username' => env('HEALTH_SLACK_USERNAME', 'test'),
 
             'icon' => null,
         ],
